@@ -3,7 +3,7 @@ RECOVERY-CORRECTOR-V7-SE https://novaler.com/uploads/flashes/novaler4k-multibox4
 BackUp_OpenPli_9_py3_SE_20230326 https://novaler.com/uploads/enigmase/openpli/openpli-develop-novaler4kse-backup-20230326_usb.zip
 BackUp_OpenPLi_8.3_SE_20230302 https://novaler.com/uploads/enigmase/openpli/openpli-8.3-novaler4kse-backup-20230301_usb.zip
 BackUp_OpenATV_7.2_SE_20230301 https://novaler.com/uploads/enigmase/openatv/openatv-7.2-novaler4kse-backup-20230301_usb.zip
-BackUp_OpenATV_6.4_SE_20230302 https://novaler.com/uploads/enigmase/openatv/openatv-6.4-novaler4kse-backup-20230301_usb.zip
+BackUp_OpenATV_6.4_SE_20230302 https://drive.google.com/uc?id=1gnIqXDihDAY5dKCuFEU308F4ZGHBVmAC&export=download
 BackUp_Egami_10.3_SE_20230302 https://novaler.com/uploads/enigmase/egami/egami-10.3.r10-novaler4kse-backup-20230301_usb.zip
 BackUp_PurE2_6.5_SE_20230302 https://novaler.com/uploads/enigmase/pure2/pure2-6.5-novaler4kse-backup-20230301_usb.zip
 BackUp_OpenVision_12.2_SE_20230303 https://novaler.com/uploads/enigmase/openvision/openvision-develop.new-novaler4kse-backup-20230303_0047_usb.zip
