@@ -1,14 +1,15 @@
-Openatv https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A76863A4CA51DDF3%2136202&authkey=AEqzRjK_r1ekM44
+Openatv http://images.mynonpublic.com/openatv/7.2/novaler4kse/openatv-7.2-novaler4kse-20230329_multi.zip
 OpenPli https://downloads.openpli.org/builds/multiboxse/openpli-8.3-release-multiboxse-20230318_emmc.zip
-OpenPLi_dev https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A76863A4CA51DDF3%2136168&authkey=ANauSQSfviT0xU4
-Openbh https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A76863A4CA51DDF3%2136203&authkey=AEpf4zsB5L18gFQOpendroid https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A76863A4CA51DDF3%2136212&authkey=AAzi49JKuZW1eNU
-Egami https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A76863A4CA51DDF3%2136210&authkey=ANdJgaEbjZ79huw
-PurE2 https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A76863A4CA51DDF3%2136206&authkey=AGAJbV9bWpy2twU
-OpenVision https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A76863A4CA51DDF3%2136207&authkey=AP8OPpeUiSAVT6A
-OpenHDF https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A76863A4CA51DDF3%2136204&authkey=AKkG3-_2tQMicnM
-OpenSpa https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A76863A4CA51DDF3%2136211&authkey=AK1cayeH58bZcgw
-Open_VIX https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A76863A4CA51DDF3%2136208&authkey=AOwCWLkriSAd9Rw
-OpenTR https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A76863A4CA51DDF3%2136209&authkey=ANfJuA4yMyv9nrE
-Hyperion https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A76863A4CA51DDF3%2136196&authkey=AJXZsoVlZ0mqvyc
+OpenPLi_dev https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20230331_emmc.zip
+OpenDroid https://www.novaler.com/uploads/enigmase/opendroid/opendroid-7.3-novaler4kse-20230329_multi.zip
+Openbh https://www.novaler.com/uploads/enigmase/openbh/openbh-5.2.005.release-novaler4kse_multi.zip https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A76863A4CA51DDF3%2136212&authkey=AAzi49JKuZW1eNU
+Egami https://image.egami-image.com/10.3/novaler4kse/egami-10.3-r11-novaler4kse-20230312_multi.zip
+PurE2 https://www.pur-e2.club/OU/images/index.php?dir=6.5/novaler/&file=novaler4kse-PurE2-6.5-20230321_multi.zip
+OpenVision https://images.openvision.dedyn.io/12.2/Develop/Vision/MaxyTec/multiboxse/openvision-e2-develop-py3.11-12.2-r525-multiboxse-20230310_usb.zip
+OpenHDF https://www.novaler.com/uploads/enigmase/openhdf/openhdf-7.2-novaler4kse-11-20230328_multi.zip
+OpenSpa https://www.novaler.com/uploads/enigmase/openspa/openspa-8.0.003-novaler4kse-20221223_multi.zip
+Open_VIX https://www.novaler.com/uploads/enigmase/openvix/openvix-6.2.010.release-novaler4kse_mmc.zip
+OpenTR https://www.novaler.com/uploads/enigmase/opentr/opentr-10-mutltiboxse_emmc.zip
+Hyperion https://www.novaler.com/uploads/enigmase/pkt/hyperion-9.1-novalerse4k-git25359_svn4480.zip
 BOOT5-OpenPLi_Py3-SE https://novaler.com/uploads/enigma/boot5/openpli-developse-boot5.zip
 BOOT5-OpenPLi_8.3-SE https://novaler.com/uploads/enigma/boot5/openpli-8.3-multiboxse-boot5.zip
