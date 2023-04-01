@@ -1,6 +1,6 @@
 Backup_Openatv https://thealiendrew.github.io/mediafire-direct/?dl=https://www.mediafire.com/file/vl0paoa9gjawbed/openatv-7.2-novaler4kse-backup_by_KhaledAli.zip/file
 BackUp_OpenPli https://www.dropbox.com/s/0r32kg91avelgb8/openpli-novaler4kse-backup-by_KhaledAli.zip?dl=0
-BackUp_OpenPLi_dev "https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A76863A4CA51DDF3%2136168&authkey=ANauSQSfviT0xU4"
+BackUp_OpenPLi_dev https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A76863A4CA51DDF3%2136168&authkey=ANauSQSfviT0xU4
 BackUp_Openbh https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A76863A4CA51DDF3%2136197&authkey=AJvEW9Q18VuA5oQ
 BackUp_Opendroid https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A76863A4CA51DDF3%2136195&authkey=AIemkN32krmgces
 BackUp_Egami https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A76863A4CA51DDF3%2136173&authkey=APWxCoLujeNCfUE
