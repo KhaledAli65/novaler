@@ -26,4 +26,18 @@ BackUp_Open_VIX https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A7
 BackUp_OpenTR https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A76863A4CA51DDF3%2136198&authkey=ADx-os8K_VfTLAA
 BackUp_Hyperion https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A76863A4CA51DDF3%2136196&authkey=AJXZsoVlZ0mqvyc
 BackUp_BOOT5-OpenPLi_Py3-SE https://novaler.com/uploads/enigma/boot5/openpli-developse-boot5.zip
+BackUp_BOOT5-OpenPLi_8.3-SE https://novaler.com/uploads/enigma/boot5/openpli-8.3-multiboxse-boot5.ziBackup_Openatv https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A76863A4CA51DDF3%2136171&authkey=ALPVJdnvFZIUNvc
+BackUp_OpenPli https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A76863A4CA51DDF3%2136166&authkey=AMsVcl9JkxuxxLQ
+BackUp_OpenPLi_dev https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A76863A4CA51DDF3%2136168&authkey=ANauSQSfviT0xU4
+BackUp_Openbh https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A76863A4CA51DDF3%2136197&authkey=AJvEW9Q18VuA5oQ
+BackUp_Opendroid https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A76863A4CA51DDF3%2136195&authkey=AIemkN32krmgces
+BackUp_Egami https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A76863A4CA51DDF3%2136173&authkey=APWxCoLujeNCfUE
+BackUp_PurE2 https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A76863A4CA51DDF3%2136172&authkey=AMnTIRCyGLGwchs
+BackUp_OpenVision https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A76863A4CA51DDF3%2136170&authkey=AIbgij13SVFx_6s
+BackUp_OpenHDF https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A76863A4CA51DDF3%2136174&authkey=ABSQP0ZMmuBf-4Y
+BackUp_OpenSpa https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A76863A4CA51DDF3%2136194&authkey=AMmc56Naon0RZI4
+BackUp_Open_VIX https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A76863A4CA51DDF3%2136166&authkey=AMsVcl9JkxuxxLQ
+BackUp_OpenTR https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A76863A4CA51DDF3%2136198&authkey=ADx-os8K_VfTLAA
+BackUp_Hyperion https://onedrive.live.com/download?cid=A76863A4CA51DDF3&resid=A76863A4CA51DDF3%2136196&authkey=AJXZsoVlZ0mqvyc
+BackUp_BOOT5-OpenPLi_Py3-SE https://novaler.com/uploads/enigma/boot5/openpli-developse-boot5.zip
 BackUp_BOOT5-OpenPLi_8.3-SE https://novaler.com/uploads/enigma/boot5/openpli-8.3-multiboxse-boot5.zip
