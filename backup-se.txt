@@ -15,5 +15,6 @@ OpenTR_10.0 https://www.novaler.com/uploads/enigmase/opentr/opentr-10-mutltiboxs
 Hyperion_9.1 https://www.novaler.com/uploads/enigmase/pkt/hyperion-9.1-novalerse4k-git25359_svn4480.zip
 SatLodge_1.p https://novaler.com/uploads/enigmase/satlodge/satlodge-1.0p3-novaler4kse-20230403usb.zip
 OpenEight_6.8 https://novaler.com/uploads/enigmase/openeight/openeight-6.8-novaler4kse-20221109_multi.zip
+TeamBlue_7.2 https://novaler.com/uploads/enigmase/teamblue/teamblue-7.2-novaler4kse-20230403_multi.zip
 BOOT5-openpli_8.3 https://novaler.com/uploads/enigma/boot5/openpli-8.3-multiboxse-boot5.zip
 BOOT5-OpenPLi_dev https://novaler.com/uploads/enigma/boot5/openpli-developse-boot5.zip
