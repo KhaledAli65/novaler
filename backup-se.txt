@@ -1,4 +1,4 @@
-Openatv_7.2 http://images.mynonpublic.com/openatv/7.2/novaler4kse/openatv-7.2-novaler4kse-20230329_multi.zip
+Openatv_7.2 http://images.mynonpublic.com/openatv/7.2/novaler4kse/openatv-7.2-novaler4kse-20230405_multi.zip
 OpenPli_8.3 https://downloads.openpli.org/builds/multiboxse/openpli-8.3-release-multiboxse-20230318_emmc.zip
 OpenPli_8.3_TimeShift http://ipkinstall.ath.cx/OPENPLI-8.3-TIMESHIFT-2023/openpli-8.3-multiboxse_emmc.zip
 OpenPLi_dev https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20230331_emmc.zip
