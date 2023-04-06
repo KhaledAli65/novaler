@@ -6,7 +6,7 @@ OpenPLi_dev_TimeShift http://ipkinstall.ath.cx/OPENPLI-9.0-PY3-TIMESHIFT/openpli
 OpenDroid_7.3 https://www.novaler.com/uploads/enigmase/opendroid/opendroid-7.3-novaler4kse-20230329_multi.zip
 Openbh_5.2 https://www.novaler.com/uploads/enigmase/openbh/openbh-5.2.005.release-novaler4kse_multi.zip 
 Egami_10.3 https://image.egami-image.com/10.3/novaler4kse/egami-10.3-r11-novaler4kse-20230312_multi.zip
-PurE2_6.5 https://www.pur-e2.club/OU/images/index.php?dir=6.5/novaler/&file=novaler4kse-PurE2-6.5-20230321_multi.zip
+PurE2_6.5 https://www.pur-e2.club/OU/images/index.php?dir=6.5/novaler/&file=novaler4kse-PurE2-6.5-20230401_multi.zip
 OpenVision_12.2 https://images.openvision.dedyn.io/12.2/Develop/Vision/MaxyTec/multiboxse/openvision-e2-develop-py3.11-12.2-r525-multiboxse-20230310_usb.zip
 OpenHDF_7.2 https://www.novaler.com/uploads/enigmase/openhdf/openhdf-7.2-novaler4kse-11-20230328_multi.zip
 OpenSpa_8.0 https://www.novaler.com/uploads/enigmase/openspa/openspa-8.0.003-novaler4kse-20221223_multi.zip
