@@ -32,3 +32,7 @@ http://hidra.live/get.php?username=LVH60Ml8Hc&password=O4XSkHm6Yj&type=m3u_plus
 http://lionboxiptv.xyz/get.php?username=Newpro123@1&password=5Bdfgafag5987@1&type=m3u_plus
 http://cms.arisiktv.xyz:8080/get.php?username=Dwabash&password=omXlNeMUkZk&type=m3u_plus
 http://line.365tv.xyz:8060/get.php?username=yAZRS6jGpUXM&password=ttNenwLRd7Pb&type=m3u_plus
+http://player.smartvpluseu.com/get.php?username=3143122720748133&password=2598854265&type=m3u
+http://5gfksa.ltd:80/get.php?username=44556677&password=11223344&type=m3u
+http://solo-v7.sytes.net:2082/get.php?username=radu&password=JQLMWAKbCM&type=m3u_plus
+http://cms.ivsport.tv:8080/get.php?username=301645556124397&password=301645556124397&type=m3u_plus
