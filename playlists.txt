@@ -36,3 +36,9 @@ http://player.smartvpluseu.com/get.php?username=3143122720748133&password=259885
 http://5gfksa.ltd:80/get.php?username=44556677&password=11223344&type=m3u
 http://solo-v7.sytes.net:2082/get.php?username=radu&password=JQLMWAKbCM&type=m3u_plus
 http://cms.ivsport.tv:8080/get.php?username=301645556124397&password=301645556124397&type=m3u_plus
+http://109.202.99.203:8080/get.php?username=P8SQcCxqKD&password=LlXFvYqN6W&type=m3u_plus
+http://kuchini.site:8080/get.php?username=mosesmn&password=4e40546ad6&type=m3u_plus
+http://pro.netmos.ovh:7355/get.php?username=davidIptvskype&password=liveb4e4752df0629ee4&type=m3u
+http://atlas213.xyz:8080/get.php?username=mag00:1A:79:63:DF:58&password=xdby2T7UqM&type=m3u
+http://star8iptv.com:2082/get.php?username=avanger-discord&password=UUYZM7aYjXCj&type=m3u
+
