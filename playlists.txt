@@ -41,4 +41,13 @@ http://kuchini.site:8080/get.php?username=mosesmn&password=4e40546ad6&type=m3u_p
 http://pro.netmos.ovh:7355/get.php?username=davidIptvskype&password=liveb4e4752df0629ee4&type=m3u
 http://atlas213.xyz:8080/get.php?username=mag00:1A:79:63:DF:58&password=xdby2T7UqM&type=m3u
 http://star8iptv.com:2082/get.php?username=avanger-discord&password=UUYZM7aYjXCj&type=m3u
+http://xtra.fireottplus.com:2052/get.php?username=230641037555&password=119482258817&type=m3u_plus
+http://xtra.fireottplus.com:2052/get.php?username=3913435847&password=mn463g7z&type=m3u_plus
+http://xtra.fireottplus.com:2052/get.php?username=663070308367&password=663070308367&type=m3u_plus
+http://fireott.biz:2052/get.php?username=318221065961&password=734852408795&type=m3u_plus
+http://smartes-plus.com:2095/get.php?username=45203827275344&password=45203827275344&type=m3u_plus
+http://vip.carpediemiptv.online:8080/get.php?username=incesu&password=3hKbNTdDMf&type=m3u
+http://sansat.net:25461/get.php?username=vdhoeven&password=1F5GKYR8AXVLEDX&type=m3u_plus
+http://sansat.net:25461/get.php?username=xuveyHRlPfewl9Z&password=zpRN8vlAbggcMpv&type=m3u_plus
+http://sansat.net:25461/get.php?username=wSO4objfyaPxbq9&password=8KT8DUufA8HFkK7&type=m3u_plus
 
