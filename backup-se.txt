@@ -1,12 +1,12 @@
-01_Openatv_7.2 http://images.mynonpublic.com/openatv/7.2/novaler4kse/openatv-7.2-novaler4kse-20230408_multi.zip
-02_OpenPli_8.3 https://downloads.openpli.org/builds/multiboxse/openpli-8.3-release-multiboxse-20230305_emmc.zip
+01_Openatv_7.2 http://images.mynonpublic.com/openatv/7.2/novaler4kse/openatv-7.2-novaler4kse-20230409_multi.zip
+02_OpenPli_8.3 https://downloads.openpli.org/builds/multiboxse/openpli-8.3-release-multiboxse-20230403_emmc.zip
 03_OpenPli_8.3_TimeShift http://ipkinstall.ath.cx/OPENPLI-8.3-TIMESHIFT-2023/openpli-8.3-multiboxse_emmc.zip
-04_OpenPLi_dev https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20230404_emmc.zip
+04_OpenPLi_dev https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20230411_emmc.zip
 05_OpenPLi_dev_TimeShift http://ipkinstall.ath.cx/OPENPLI-9.0-PY3-TIMESHIFT/openpli-9.0-novaler4kse_emmc.zip
 06_OpenDroid_7.3 https://www.novaler.com/uploads/enigmase/opendroid/opendroid-7.3-novaler4kse-20230329_multi.zip
 07_Openbh_5.2 https://novaler.com/uploads/enigmase/openbh/openbh-5.2.006.release-novaler4kse_multi.zip 
 08_Egami_10.3 https://image.egami-image.com/10.3/novaler4kse/egami-10.3-r15-novaler4kse-20230410_multi.zip
-09_PurE2_6.5 https://www.pur-e2.club/OU/images/index.php?dir=6.5/novaler/&file=novaler4kse-PurE2-6.5-20230401_multi.zip
+09_PurE2_6.5 https://www.pur-e2.club/OU/images/index.php?dir=6.5/novaler/&file=novaler4kse-PurE2-6.5-20230410_multi.zip
 10_OpenVision_12.2 https://novaler.com/uploads/enigmase/openvision/openvision-e2-develop-py3.11-12.2-r530-multiboxse-20230407_usb.zip
 11_OpenHDF_7.2 https://www.novaler.com/uploads/enigmase/openhdf/openhdf-7.2-novaler4kse-11-20230328_multi.zip
 12_OpenSpa_8.0 https://www.novaler.com/uploads/enigmase/openspa/openspa-8.0.003-novaler4kse-20221223_multi.zip
