@@ -35,3 +35,12 @@ http://kuchini.site:8080/player_api.php?username=mosesmn&password=4e40546ad6
 http://pro.netmos.ovh:7355/player_api.php?username=davidIptvskype&password=liveb4e4752df0629ee4
 http://star8iptv.com:2082/player_api.php?username=avanger-discord&password=UUYZM7aYjXCj
 http://vip.carpediemiptv.online:8080/player_api.php?username=incesu&password=3hKbNTdDMf
+http://zeusplay.life/get.php?username=0890013122&password=4134001265&type=m3u_plus
+http://line.365tv.xyz:8060/get.php?username=Remco_Bitbuster&password=E3DkhqmkvUqc&type=m3u_plus
+http://orbyt.xyz:8080/get.php?username=ghozt&password=zzeEXeujGur9&output=ts&type=m3u_plus
+http://televizija.org:8000/get.php?username=WjSNUSEQU4w4&password=qKu9YPZyvA3s&type=m3u
+http://caffe.link:25461/get.php?username=24DarkoBonevski&password=3R952UN8kNZSKgdd65333JgssHg&type=m3u
+http://brutus.biz:2082/get.php?username=orando&password=orando&type=m3u_plus
+http://dns.acaidopara.net:8080/get.php?username=0293726279&password=3928161569&type=m3u_plus&output=ts
+http://109.202.99.203:8080/get.php?username=WWXUdfY8nM&password=veaLE0I837&type=m3u_plus
+
