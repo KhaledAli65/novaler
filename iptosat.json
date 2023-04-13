@@ -1,0 +1,174 @@
+{
+    "playlist": [
+        {
+            "sref": "1:0:19:7D1:64:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 1 PREMIUM",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/12413"
+        },
+        {
+            "sref": "1:0:19:7D2:64:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 2 PREMIUM",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/12412"
+        },
+        {
+            "sref": "1:0:19:838:C8:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 3 PREMIUM",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/12411"
+        },
+        {
+            "sref": "1:0:19:7D3:64:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 1",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/12410"
+        },
+        {
+            "sref": "1:0:19:836:C8:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 2",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/12409"
+        },
+        {
+            "sref": "1:0:19:7D4:64:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 3",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/12408"
+        },
+        {
+            "sref": "1:0:19:835:C8:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 4",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/12407"
+        },
+        {
+            "sref": "1:0:19:839:C8:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 5",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/23565"
+        },
+        {
+            "sref": "1:0:19:837:C8:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 6",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/23566"
+        },
+        {
+            "sref": "1:0:19:899:12C:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 7",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/23567"
+        },
+        {
+            "sref": "1:0:19:132:3:800:DCA0000:0:0:0:",
+            "channel": "OSN Yahala Aflam",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/299470"
+        },
+        {
+            "sref": "1:0:19:119D:2D:800:DCA0000:0:0:0:",
+            "channel": "OSN Yahala",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/299469"
+        },
+        {
+            "sref": "1:0:19:135:3:800:DCA0000:0:0:0:",
+            "channel": "OSN Yahala Bil Arabi",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/299468"
+        },
+        {
+            "sref": "1:0:19:1197:2D:800:DCA0000:0:0:0:",
+            "channel": "OSN Movies Hollywood",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/299471"
+        },
+        {
+            "sref": "1:0:19:12E:3:800:DCA0000:0:0:0:",
+            "channel": "OSN Movies Action",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/299472"
+        },
+        {
+            "sref": "1:0:19:12D:3:800:DCA0000:0:0:0:",
+            "channel": "OSN Movies Premiere",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/299473"
+        },
+        {
+            "sref": "1:0:19:130:3:800:DCA0000:0:0:0:",
+            "channel": "OSN Showcase",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/299474"
+        },
+        {
+            "sref": "1:0:16:A93:1:2A:DC00000:0:0:0:",
+            "channel": "Fann",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/299475"
+        },
+        {
+            "sref": "1:0:19:3EB:A:800:DCA0000:0:0:0:",
+            "channel": "OSN Series Prime",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/299478"
+        },
+        {
+            "sref": "1:0:19:119A:2D:800:DCA0000:0:0:0:",
+            "channel": "OSN Kids",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/299480"
+        },
+        {
+            "sref": "1:0:19:1623:236:800:DCA0000:0:0:0:",
+            "channel": "H2 HD",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/299482"
+        },
+        {
+            "sref": "1:0:19:161D:236:800:DCA0000:0:0:0:",
+            "channel": "History HD",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/299483"
+        },
+        {
+            "sref": "1:0:19:3EE:A:800:DCA0000:0:0:0:",
+            "channel": "Nat Geo HD",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/299485"
+        },
+        {
+            "sref": "1:0:19:3EC:A:800:DCA0000:0:0:0:",
+            "channel": "Nat Geo Wild HD",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/299486"
+        },
+        {
+            "sref": "1:0:19:1621:236:800:DCA0000:0:0:0:",
+            "channel": "Discovery HD",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/299487"
+        },
+        {
+            "sref": "1:0:19:3F1:A:800:DCA0000:0:0:0:",
+            "channel": "Discovery Science HD",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/299488"
+        },
+        {
+            "sref": "1:0:19:1624:236:800:DCA0000:0:0:0:",
+            "channel": "Discovery IDX HD",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/299489"
+        },
+        {
+            "sref": "1:0:19:1196:2D:800:DCA0000:0:0:0:",
+            "channel": "OSN Living",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/299491"
+        },
+        {
+            "sref": "1:0:19:119B:2D:800:DCA0000:0:0:0:",
+            "channel": "Disney Channel HD",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/299492"
+        },
+        {
+            "sref": "1:0:19:131:3:800:DCA0000:0:0:0:",
+            "channel": "E! HD",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/299494"
+        },
+        {
+            "sref": "1:0:19:1195:2D:800:DCA0000:0:0:0:",
+            "channel": "OSN Mezze",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/299500"
+        },
+        {
+            "sref": "1:0:19:A92:1:2A:DC00000:0:0:0:",
+            "channel": "Series Channel HD",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/299503"
+        },
+        {
+            "sref": "1:0:19:3EF:A:800:DCA0000:0:0:0:",
+            "channel": "Star Movies HD",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/299506"
+        },
+        {
+            "sref": "1:0:19:3F0:A:800:DCA0000:0:0:0:",
+            "channel": "Star World HD",
+            "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/299505"
+        }
+    ]
+}
