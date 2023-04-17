@@ -1,7 +1,7 @@
-01_Openatv_7.2 http://images.mynonpublic.com/openatv/7.2/novaler4kse/openatv-7.2-novaler4kse-20230409_multi.zip
-02_OpenPli_8.3 https://downloads.openpli.org/builds/multiboxse/openpli-8.3-release-multiboxse-20230403_emmc.zip
+01_Openatv_7.2 http://images.mynonpublic.com/openatv/7.2/novaler4kse/openatv-7.2-novaler4kse-20230413_multi.zip
+02_OpenPli_8.3 https://downloads.openpli.org/builds/multiboxse/openpli-8.3-release-multiboxse-20230414_emmc.zip
 03_OpenPli_8.3_TimeShift http://ipkinstall.ath.cx/OPENPLI-8.3-TIMESHIFT-2023/openpli-8.3-multiboxse_emmc.zip
-04_OpenPLi_dev https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20230411_emmc.zip
+04_OpenPLi_dev https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20230414_emmc.zip
 05_OpenPLi_dev_TimeShift http://ipkinstall.ath.cx/OPENPLI-9.0-PY3-TIMESHIFT/openpli-9.0-novaler4kse_emmc.zip
 06_OpenDroid_7.3 https://www.novaler.com/uploads/enigmase/opendroid/opendroid-7.3-novaler4kse-20230329_multi.zip
 07_Openbh_5.2 https://novaler.com/uploads/enigmase/openbh/openbh-5.2.006.release-novaler4kse_multi.zip 
