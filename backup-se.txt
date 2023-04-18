@@ -11,7 +11,7 @@
 11_OpenHDF_7.2 https://www.novaler.com/uploads/enigmase/openhdf/openhdf-7.2-novaler4kse-11-20230328_multi.zip
 12_OpenSpa_8.0 https://www.novaler.com/uploads/enigmase/openspa/openspa-8.0.003-novaler4kse-20221223_multi.zip
 13_Open_VIX_6.3 https://novaler.com/uploads/enigmase/openvix/openvix-6.3.007.release-novaler4kse_multi.zip
-14_OpenTR_10.0 https://www.novaler.com/uploads/enigmase/opentr/opentr-10-mutltiboxse_emmc.zip
+14_OpenTR_10.0 https://novaler.com/uploads/enigmase/opentr/opentr-10.1-novaler4kse-20230418_usb.zip
 15_Hyperion_9.1 https://www.novaler.com/uploads/enigmase/pkt/hyperion-9.1-novalerse4k-git25359_svn4480.zip
 16_SatLodge_1.p https://novaler.com/uploads/enigmase/satlodge/satlodge-1.0p3-novaler4kse-20230403usb.zip
 17_OpenEight_6.8 https://novaler.com/uploads/enigmase/openeight/openeight-6.8-novaler4kse-20221109_multi.zip
