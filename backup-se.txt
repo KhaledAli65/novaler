@@ -1,3 +1,4 @@
+     ●●● الصور الخام ●●●
 01_Openatv_7.2 http://images.mynonpublic.com/openatv/7.2/novaler4kse/openatv-7.2-novaler4kse-20230413_multi.zip
 02_OpenPli_8.3 https://downloads.openpli.org/builds/multiboxse/openpli-8.3-release-multiboxse-20230414_emmc.zip
 03_OpenPli_8.3_TimeShift http://ipkinstall.ath.cx/OPENPLI-8.3-TIMESHIFT-2023/openpli-8.3-multiboxse_emmc.zip
@@ -17,5 +18,3 @@
 17_OpenEight_6.8 https://novaler.com/uploads/enigmase/openeight/openeight-6.8-novaler4kse-20221109_multi.zip
 18_TeamBlue_7.2 https://novaler.com/uploads/enigmase/teamblue/teamblue-7.2-novaler4kse-20230403_multi.zip
 19_Cobralibrosat https://novaler.com/uploads/enigmase/cobralibero/cobraliberosat-Team-novaler4kse-20230409_usb.zip
-20_BOOT5-openpli_8.3 https://novaler.com/uploads/enigma/boot5/openpli-8.3-multiboxse-boot5.zip
-21_BOOT5-OpenPLi_dev https://novaler.com/uploads/enigma/boot5/openpli-developse-boot5.zip
