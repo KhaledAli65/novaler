@@ -1,4 +1,4 @@
-     ●●● crude image ●●● http://images.mynonpublic.com/openatv/7.3/novaler4kse/openatv-7.2-novaler4kse-20230413_multi.zip
+●●●crude_image●●● http://images.mynonpublic.com/openatv/7.3/novaler4kse/openatv-7.2-novaler4kse-20230413_multi.zip
 01_Openatv_7.2 http://images.mynonpublic.com/openatv/7.2/novaler4kse/openatv-7.2-novaler4kse-20230413_multi.zip
 02_OpenPli_8.3 https://downloads.openpli.org/builds/multiboxse/openpli-8.3-release-multiboxse-20230414_emmc.zip
 03_OpenPli_8.3_TimeShift http://ipkinstall.ath.cx/OPENPLI-8.3-TIMESHIFT-2023/openpli-8.3-multiboxse_emmc.zip
