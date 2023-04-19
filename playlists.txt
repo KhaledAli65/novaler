@@ -43,4 +43,27 @@ http://caffe.link:25461/get.php?username=24DarkoBonevski&password=3R952UN8kNZSKg
 http://brutus.biz:2082/get.php?username=orando&password=orando&type=m3u_plus
 http://dns.acaidopara.net:8080/get.php?username=0293726279&password=3928161569&type=m3u_plus&output=ts
 http://109.202.99.203:8080/get.php?username=WWXUdfY8nM&password=veaLE0I837&type=m3u_plus
+http://ccdntp.xyz/get.php?username=claudio4800&password=991779964&type=m3u
+http://flysilo.top:8080/get.php?username=761668881110989052&password=9521668881110989&type=m3u
+http://dns.acaidopara.net:8080/get.php?username=jgoncalves&password=revYoWpdpx&type=m3u
+http://flysilo.top:8080/get.php?username=311669286747085055&password=3021669286747085&type=m3u
+http://server.sibfungold.info:8080/get.php?username=eurotv-iptveu&password=bxdTtmPF1C&type=m3u
+http://ky-iptv.com/get.php?username=Tingley01&password=Password01&type=m3u
+http://gotdark.com/get.php?username=gatodmiptv&password=9gaq9QVmEDDOyb50w&type=m3u
+http://185.191.126.246:8080/get.php?username=stevica&password=stevica1234&type=m3u
+http://infra.piglo.re/get.php?username=Gilmoura32&password=32556200&type=m3u
+http://fenz668.top/get.php?username=pdd4800&password=vndjspd4t&type=m3u
+http://mserver55.xyz:8080/get.php?username=45a96q9a3b&password=8av636q93v&type=m3u_plus
+http://ghostiptv.vip:80/get.php?username=001243249AD2&password=637a806ef1e3b&type=m3u&output=ts
+http://destiny4k.com:2086/get.php?username=8yejyklYMQ&password=M1hKgD1WdQ&type=m3u&output=ts
+
+
+
+
+
+
+
+
+
+
 
