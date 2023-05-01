@@ -37,3 +37,14 @@ http://dns.acaidopara.net:8080/player_api.php?username=0293726279&password=39281
 http://gotdark.com/player_api.php?username=gatodmiptv&password=9gaq9QVmEDDOyb50w
 http://fenz668.top/player_api.php?username=pdd4800&password=vndjspd4t
 http://ghostiptv.vip:80/player_api.php?username=001243249AD2&password=637a806ef1e3b
+http://crystal.tecnolab.top:8080/get.php?username=mUCZ3HE8cA&password=vMx9Ze48tF&type=m3u_plus
+http://tvpro.vprotv.com:25443/get.php?username=V5R0x4GFVezm&password=FPMcd7ggwH&type=m3u_plus
+http://ky-iptv.com/get.php?username=Marius&password=12345678&type=m3u_plus
+http://darg.site:2082/get.php?username=Santipecina&password=Deluissubte&type=m3u_plus
+http://starshare.live:8080/get.php?username=hobot336_discord&password=ReNBjd0qgg&type=m3u_plus
+http://goodtv.nicevcd.xyz:80/get.php?username=vi914676&password=9560732625&type=m3u_plus
+http://m3u.sea-iptv.com/get.php?username=1z8kwjj4yo&password=1fna8pvg&type=m3u_plus
+http://memotv.xyz:8080/get.php?username=Maik1Vater&password=Detle19112022&type=m3u_plus
+http://iptvtree.net:8080/get.php?username=george123&password=ffc38b62&type=m3u
+http://cdn.liveboxtv.xyz:80/get.php?username=alexia8181&password=alexia24052022&type=m3u
+
