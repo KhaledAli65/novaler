@@ -47,4 +47,7 @@ http://m3u.sea-iptv.com/get.php?username=1z8kwjj4yo&password=1fna8pvg&type=m3u_p
 http://memotv.xyz:8080/get.php?username=Maik1Vater&password=Detle19112022&type=m3u_plus
 http://iptvtree.net:8080/get.php?username=george123&password=ffc38b62&type=m3u
 http://cdn.liveboxtv.xyz:80/get.php?username=alexia8181&password=alexia24052022&type=m3u
-
+http://pandar.plus:25461/get.php?username=EASIACAHXN&password=KFCOYKFBUO&type=m3u_plus
+http://starsat123.com:8080/get.php?username=akramcccam@skype&password=cyber1.info&type=m3u_plus
+http://tv365.me/get.php?username=9830841341&password=1142977074&type=m3u
+http://tv.pro-ott.com:25443/get.php?username=6116226554&password=6589651214&type=m3u_plus
