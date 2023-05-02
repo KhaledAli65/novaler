@@ -16,5 +16,5 @@
 16_Hyperion_9.1 https://www.novaler.com/uploads/enigmase/pkt/hyperion-9.1-novalerse4k-git25359_svn4480.zip
 17_SatLodge_1.p https://novaler.com/uploads/enigmase/satlodge/satlodge-1.0p3-novaler4kse-20230403usb.zip
 18_OpenEight_6.8 https://novaler.com/uploads/enigmase/openeight/openeight-6.8-novaler4kse-20221109_multi.zip
-19_TeamBlue_7.2 https://novaler.com/uploads/enigmase/teamblue/teamblue-7.2-novaler4kse-20230403_multi.zip
+19_TeamBlue_7.2 https://novaler.com/uploads/enigmase/teamblue/teamblue-7.2-novaler4kse-20230502_multi.zip
 20_Cobralibrosat https://novaler.com/uploads/enigmase/cobralibero/cobraliberosat-Team-novaler4kse-20230409_usb.zip
