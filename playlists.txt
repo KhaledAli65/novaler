@@ -28,3 +28,5 @@ http://goodtv.nicevcd.xyz:80/player_api.php?username=vi914676&password=956073262
 http://iptvtree.net:8080/player_api.php?username=george123&password=ffc38b62
 http://starsat123.com:8080/player_api.php?username=akramcccam@skype&password=cyber1.info
 http://tv.pro-ott.com:25443/player_api.php?username=6116226554&password=6589651214
+http://carthage-pro.fr:25461/get.php?username=husni24&password=husni25&type=m3u_plus
+http://server.sibfungold.info:8080/get.php?username=hfmkelibia@&password=cwV1syTkt9&type=m3u
