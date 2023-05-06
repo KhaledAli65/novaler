@@ -30,3 +30,10 @@ http://starsat123.com:8080/player_api.php?username=akramcccam@skype&password=cyb
 http://tv.pro-ott.com:25443/player_api.php?username=6116226554&password=6589651214
 http://carthage-pro.fr:25461/get.php?username=husni24&password=husni25&type=m3u_plus
 http://server.sibfungold.info:8080/get.php?username=hfmkelibia@&password=cwV1syTkt9&type=m3u
+http://txm.flysat.live:2089/get.php?username=152066972951535&password=152042178572498&type=m3u&output=mpegts
+http://00322.xyz:8000/get.php?username=LineaInterna20ANKDE&password=NUEVA73495FF&type=m3u&output=mpegts
+http://safe.avivainsur.com:8080/get.php?username=voinescu.alexandra&password=w8kFZxKBC8Rt&type=m3u&output=mpegs
+http://smartes-plus.com:1996/get.php?username=45275997833146&password=45275997833146&type=m3u_plus&output=m3u8
+http://phenix-tv.xyz:8080/get.php?username=123456&password=123456&type=m3u_plus
+http://tv.pro-ott.com:25443/get.php?username=6116226554&password=6589651214&type=m3u_plus
+
