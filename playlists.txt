@@ -37,3 +37,10 @@ http://smartes-plus.com:1996/get.php?username=45275997833146&password=4527599783
 http://phenix-tv.xyz:8080/get.php?username=123456&password=123456&type=m3u_plus
 http://tv.pro-ott.com:25443/get.php?username=6116226554&password=6589651214&type=m3u_plus
 http://u.goldeniptv.com:2052/get.php?username=2205&password=123456&type=m3u
+http://novabox.vip:8080/get.php?username=222222222222&password=111111111111&type=m3u
+http://tigerfights.xyz/get.php?username=jacob1234&password=jacob1234&type=m3u
+http://iptv-tn.com:8080/get.php?username=@AiKiKun&password=topchantv.net&type=m3u_plus
+http://tod4k.live:25461/get.php?username=645587665547&password=766555456778&type=m3u
+http://carthage-pro.fr:25461/get.php?username=husni24&password=husni25&type=m3u_plus
+http://phenix-tv.xyz:8080/get.php?username=kiko&password=kiko&type=m3u_plus
+http://ipmentv.site:8080/get.php?username=zeyneptugrul&password=9H3m3k5WnV&type=m3u
