@@ -44,3 +44,10 @@ http://tod4k.live:25461/get.php?username=645587665547&password=766555456778&type
 http://carthage-pro.fr:25461/get.php?username=husni24&password=husni25&type=m3u_plus
 http://phenix-tv.xyz:8080/get.php?username=kiko&password=kiko&type=m3u_plus
 http://ipmentv.site:8080/get.php?username=zeyneptugrul&password=9H3m3k5WnV&type=m3u
+http://163.172.58.113:88/get.php?username=&password=&type=m3u_plus&output=m3u8
+http://client.phoenix-iptv.com:80/get.php?username=play&password=live.php?mac=00:1A:79:00:00:00&stream=526150&extension=ts&play_token=ojJs6nHTiZ&type=m3u_plus&output=m3u8
+http://client.phoenix-iptv.com:80/get.php?username=play&password=live.php?mac=00:1a:79:ad:c5:1f&stream=526150&extension=ts&play_token=G2EyvFtP61&type=m3u_plus
+http://185.135.157.33:8880/get.php?username=104665104&password=cvIqvcSvYr&type=m3u_plus
+http://stallioniptv.ddns.net/get.php?username=104665104&password=cvIqvcSvYr&type=m3u_plus
+http://main2.crystalott.net/get.php?username=kXD2B5LGZgUlezD&password=buGYEMMdXJ&type=m3u_plus
+http://line.crystal-ott.com:80/get.php?username=kXD2B5LGZgUlezD&password=buGYEMMdXJ&type=m3u_plus
