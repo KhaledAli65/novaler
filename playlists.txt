@@ -28,3 +28,4 @@ http://u.goldeniptv.com:2052/player_api.php?username=2205&password=123456
 http://iptv-tn.com:8080/player_api.php?username=@AiKiKun&password=topchantv.net
 http://phenix-tv.xyz:8080/player_api.php?username=kiko&password=kiko
 http://ipmentv.site:8080/player_api.php?username=zeyneptugrul&password=9H3m3k5WnV
+http://merkezmedya.xyz:8080/get.php?username=ozcanmercan123&password=yaezcb5cfZ&type=m3u_plus
