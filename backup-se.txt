@@ -10,7 +10,7 @@
 10_Egami_10.4 https://novaler.com/uploads/enigmase/egami/egami-10.4-r1-novaler4kse-20230505_multi.zip
 11_PurE2_6.5 https://www.pur-e2.club/OU/images/index.php?dir=6.5/novaler/&file=novaler4kse-PurE2-6.5-20230410_multi.zip
 12_OpenVision_12.2 https://novaler.com/uploads/enigmase/openvision/openvision-e2-develop-py3.11-12.2-r530-multiboxse-20230407_usb.zip
-13_OpenHDF_7.2 https://www.novaler.com/uploads/enigmase/openhdf/openhdf-7.2-novaler4kse-11-20230328_multi.zip
+13_OpenHDF_7.3 https://novaler.com/uploads/enigmase/openhdf/openhdf-7.3-novaler4kse-1-20230513_multi.zip
 14_OpenSpa_8.1 https://novaler.com/uploads/enigmase/openspa/openspa-8.1.001-novaler4kse-20230430_multi.zip
 15_Open_VIX_6.3 https://novaler.com/uploads/enigmase/openvix/openvix-6.3.007.release-novaler4kse_multi.zip
 16_OpenTR_10.1 https://novaler.com/uploads/enigmase/opentr/opentr-10.1-novaler4kse-20230418_usb.zip
