@@ -29,3 +29,9 @@ http://iptv-tn.com:8080/player_api.php?username=@AiKiKun&password=topchantv.net
 http://phenix-tv.xyz:8080/player_api.php?username=kiko&password=kiko
 http://ipmentv.site:8080/player_api.php?username=zeyneptugrul&password=9H3m3k5WnV
 http://merkezmedya.xyz:8080/get.php?username=ozcanmercan123&password=yaezcb5cfZ&type=m3u_plus
+http://eye.syscdn.xyz:8080/get.php?username=3242340233&password=4342698196&type=m3u
+http://tod4k.live:25461/get.php?username=645587665547&password=766555456778&type=m3u
+http://u.goldeniptv.com:2052/get.php?username=2205&password=123456&type=m3u
+http://titaniptv.com:5050/get.php?username=denisat&password=xZ4j3545235fffad&type=m3u
+http://1.tvdiptv.com:2082/get.php?username=00000000&password=00000000&type=m3u
+http://cine-app.com:8000/get.php?username=mag00:1A:79:A8:23:7B&password=hTadxi954h&type=m3u_plus
