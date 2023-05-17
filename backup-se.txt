@@ -20,4 +20,4 @@
 20_TeamBlue_7.2 https://novaler.com/uploads/enigmase/teamblue/teamblue-7.2-novaler4kse-20230502_multi.zip
 21_Cobralibrosat https://novaler.com/uploads/enigmase/cobralibero/cobraliberosat-Team-novaler4kse-20230409_usb.zip
 22_Openbh_5.3 https://novaler.com/uploads/enigmase/openbh/openbh-5.3.000.release-novaler4kse_multi.zip
-22_Nonsolosat_28 https://www.nonsolosat.net/upload/index.php?dir=Maxytec/Nonsolosat%2028/&file=Nonsolosat-28-multiboxse_emmc.zip
+23_Nonsolosat_28 https://www.nonsolosat.net/upload/index.php?dir=Maxytec/Nonsolosat%2028/&file=Nonsolosat-28-multiboxse_emmc.zip
