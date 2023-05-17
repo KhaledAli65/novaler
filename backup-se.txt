@@ -12,7 +12,7 @@
 12_OpenVision_12.2 https://novaler.com/uploads/enigmase/openvision/openvision-e2-develop-py3.11-12.2-r530-multiboxse-20230407_usb.zip
 13_OpenHDF_7.3 https://novaler.com/uploads/enigmase/openhdf/openhdf-7.3-novaler4kse-1-20230513_multi.zip
 14_OpenSpa_8.1 https://novaler.com/uploads/enigmase/openspa/openspa-8.1.001-novaler4kse-20230430_multi.zip
-15_Open_VIX_6.3 https://novaler.com/uploads/enigmase/openvix/openvix-6.3.007.release-novaler4kse_multi.zip
+15_Open_VIX_6.4 https://novaler.com/uploads/enigmase/openvix/openvix-6.4.001.release-novaler4kse_multi.zip
 16_OpenTR_10.1 https://novaler.com/uploads/enigmase/opentr/opentr-10.1-novaler4kse-20230418_usb.zip
 17_Hyperion_9.2 https://www.novaler.com/uploads/enigmase/pkt/zukonmod-hyperion-9.2-multiboxse-git32181-svn4618_multi.zip
 18_SatLodge_2.0 https://novaler.com/uploads/enigmase/satlodge/satlodge-2.0p3-novaler4kse-20230503_usb.zip
