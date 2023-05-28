@@ -169,6 +169,146 @@
             "sref": "1:0:19:3F0:A:800:DCA0000:0:0:0:",
             "channel": "Star World HD",
             "url": "http://player.smartvpluseu.com/3143122720748133/2598854265/299505"
+        },
+        {
+            "sref": "1:0:19:7D1:64:77E:DC02B05:0:0:0:",
+            "channel": "beIN SPORTS 1 PREMIUM",
+            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/5506"
+        },
+        {
+            "sref": "1:0:19:7D2:64:77E:DC02B05:0:0:0:",
+            "channel": "beIN SPORTS 2 PREMIUM",
+            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/5507"
+        },
+        {
+            "sref": "1:0:19:838:C8:77E:DC02B2E:0:0:0:",
+            "channel": "beIN SPORTS 3 PREMIUM",
+            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/5508"
+        },
+        {
+            "sref": "1:0:19:7D3:64:77E:DC02B05:0:0:0:",
+            "channel": "beIN SPORTS 1",
+            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/5509"
+        },
+        {
+            "sref": "1:0:19:836:C8:77E:DC02B2E:0:0:0:",
+            "channel": "beIN SPORTS 2",
+            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/5510"
+        },
+        {
+            "sref": "1:0:19:7D4:64:77E:DC02B05:0:0:0:",
+            "channel": "beIN SPORTS 3",
+            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/5511"
+        },
+        {
+            "sref": "1:0:19:835:C8:77E:DC02B2E:0:0:0:",
+            "channel": "beIN SPORTS 4",
+            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/5512"
+        },
+        {
+            "sref": "1:0:19:839:C8:77E:DC02B2E:0:0:0:",
+            "channel": "beIN SPORTS 5",
+            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/5513"
+        },
+        {
+            "sref": "1:0:19:837:C8:77E:DC02B2E:0:0:0:",
+            "channel": "beIN SPORTS 6",
+            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/5514"
+        },
+        {
+            "sref": "1:0:19:899:12C:77E:DC0313C:0:0:0:",
+            "channel": "beIN SPORTS 7",
+            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/5515"
+        },
+        {
+            "sref": "1:0:19:132:3:800:DCA2EDC:0:0:0:",
+            "channel": "OSN Yahala Aflam",
+            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/4792"
+        },
+        {
+            "sref": "1:0:19:119D:2D:800:DCA2F29:0:0:0:",
+            "channel": "OSN Yahala",
+            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/4790"
+        },
+        {
+            "sref": "1:0:19:135:3:800:DCA2EDC:0:0:0:",
+            "channel": "OSN Yahala Bil Arabi",
+            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/4791"
+        },
+        {
+            "sref": "1:0:19:A8D:1:2A:DC02B81:0:0:0:",
+            "channel": "Al Yawm",
+            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/4785"
+        },
+        {
+            "sref": "1:0:19:A8F:1:2A:DC02B81:0:0:0:",
+            "channel": "Cinema 1",
+            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/4783"
+        },
+        {
+            "sref": "1:0:19:A90:1:2A:DC02B81:0:0:0:",
+            "channel": "Cinema 2",
+            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/4784"
+        },
+        {
+            "sref": "1:0:19:A92:1:2A:DC02B81:0:0:0:",
+            "channel": "Series Channel HD",
+            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/4787"
+        },
+        {
+            "sref": "1:0:19:A91:1:2A:DC02B81:0:0:0:",
+            "channel": "Series +2 HD",
+            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/4788"
+        },
+        {
+            "sref": "1:0:19:A93:1:2A:DC02B81:0:0:0:",
+            "channel": "Fann",
+            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/4786"
+        },
+        {
+            "sref": "1:0:19:A8E:1:2A:DC02B81:0:0:0:",
+            "channel": "Al Safwa",
+            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/4789"
+        },
+        {
+            "sref": "1:0:19:12E:3:800:DCA2EDC:0:0:0:",
+            "channel": "OSN Movies Action",
+            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/4793"
+        },
+        {
+            "sref": "1:0:19:119C:2D:800:DCA2F29:0:0:0:",
+            "channel": "OSN Comedy",
+            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/4794"
+        },
+        {
+            "sref": "1:0:19:1197:2D:800:DCA2F29:0:0:0:",
+            "channel": "OSN Movies Hollywood",
+            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/4796"
+        },
+        {
+            "sref": "1:0:1:E2:2:800:DCA2E69:0:0:0:",
+            "channel": "Star Movies HD",
+            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/4797"
+        },
+        {
+            "sref": "1:0:19:119E:2D:800:DCA2F29:0:0:0:",
+            "channel": "Star World HD",
+            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/4798"
+        },
+        {
+            "sref": "1:0:19:133:3:800:DCA2EDC:0:0:0:",
+            "channel": "OSN Series Prime",
+            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/4799"
+        },
+        {
+            "sref": "1:0:19:12D:3:800:DCA2EDC:0:0:0:",
+            "channel": "OSN Movies Premiere",
+            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/4800"
+        },
+        {
+            "sref": "1:0:19:1625:236:800:DCA2DCF:0:0:0:",
+            "channel": "OSN Movies Premiere +2",
+            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/4801"
         }
     ]
 }
