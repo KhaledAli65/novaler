@@ -43,5 +43,5 @@ http://mega4k.one:8080/get.php?username=5556&password=5556&type=m3u
 http://kuchini.site:8080/get.php?username=myhdosama&password=cjydA4ncmMqx55pf&type=m3u
 http://mynetworks.info:80/get.php?username=1234512345&password=5432154321&type=m3u_plus
 http://metaip.tv:80/get.php?username=rezastar7&password=ucCIshvpYj&type=m3u_plus
-
+http://es.xipi3.xyz:2052/get.php?username=csprororzzizizijssjks&password=qvCSUANYWmJc&type=m3u
 
