@@ -18,6 +18,6 @@
 17_SatLodge_2.0 https://novaler.com/uploads/enigmase/satlodge/satlodge-2.0p3-novaler4kse-20230503_usb.zip
 18_OpenEight_6.8 https://novaler.com/uploads/enigmase/openeight/openeight-6.8-novaler4kse-20221109_multi.zip
 19_TeamBlue_7.2 https://novaler.com/uploads/enigmase/teamblue/teamblue-7.2-novaler4kse-20230502_multi.zip
-20_Cobralibrosat https://novaler.com/uploads/enigmase/cobralibero/cobraliberosat-Team-novaler4kse-20230409_usb.zip
+20_Cobralibrosat https://novaler.com/uploads/enigmase/cobralibero/cobraliberosat-PY3-novaler4kse_emmc.zip
 21_Openbh_5.3 https://novaler.com/uploads/enigmase/openbh/openbh-5.3.000.release-novaler4kse_multi.zip
 22_Nonsolosat_28 https://dl.dropboxusercontent.com/s/9sidgcz26wi5p0n/Nonsolosat-28-multiboxse_emmc.zip?dl=0
