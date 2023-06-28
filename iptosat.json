@@ -1,74 +1,129 @@
 {
     "playlist": [
         {
+            "sref": "1:0:19:7D1:64:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 1 PREMIUM",
+            "url": "http://s1.tvchallenge.tn:7040/joao30/777333000/6172"
+        },
+        {
+            "sref": "1:0:19:7D2:64:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 2 PREMIUM",
+            "url": "http://s1.tvchallenge.tn:7040/joao30/777333000/6173"
+        },
+        {
+            "sref": "1:0:19:838:C8:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 3 PREMIUM",
+            "url": "http://s1.tvchallenge.tn:7040/joao30/777333000/6174"
+        },
+        {
+            "sref": "1:0:19:7D3:64:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 1",
+            "url": "http://s1.tvchallenge.tn:7040/joao30/777333000/6165"
+        },
+        {
+            "sref": "1:0:19:836:C8:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 2",
+            "url": "http://s1.tvchallenge.tn:7040/joao30/777333000/6166"
+        },
+        {
+            "sref": "1:0:19:7D4:64:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 3",
+            "url": "http://s1.tvchallenge.tn:7040/joao30/777333000/6167"
+        },
+        {
+            "sref": "1:0:19:835:C8:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 4",
+            "url": "http://s1.tvchallenge.tn:7040/joao30/777333000/6168"
+        },
+        {
+            "sref": "1:0:19:839:C8:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 5",
+            "url": "http://s1.tvchallenge.tn:7040/joao30/777333000/6169"
+        },
+        {
+            "sref": "1:0:19:837:C8:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 6",
+            "url": "http://s1.tvchallenge.tn:7040/joao30/777333000/6170"
+        },
+        {
+            "sref": "1:0:19:899:12C:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 7",
+            "url": "http://s1.tvchallenge.tn:7040/joao30/777333000/6171"
+        },
+        {
             "sref": "1:0:19:132:3:800:DCA0000:0:0:0:",
             "channel": "OSN TV Yahala Aflam",
-            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/4792"
+            "url": "http://s1.tvchallenge.tn:7040/joao30/777333000/134021"
         },
         {
             "sref": "1:0:19:119D:2D:800:DCA0000:0:0:0:",
             "channel": "OSN TV Yahala",
-            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/4790"
-        },
-        {
-            "sref": "1:0:19:135:3:800:DCA0000:0:0:0:",
-            "channel": "OSN TV Yahala Bil Arabi",
-            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/4791"
-        },
-        {
-            "sref": "1:0:19:A8D:1:2A:DC00000:0:0:0:",
-            "channel": "Al Yawm",
-            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/4785"
-        },
-        {
-            "sref": "1:0:19:A8F:1:2A:DC00000:0:0:0:",
-            "channel": "Cinema 1",
-            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/4783"
+            "url": "http://s1.tvchallenge.tn:7040/joao30/777333000/134023"
         },
         {
             "sref": "1:0:19:A90:1:2A:DC00000:0:0:0:",
             "channel": "Cinema 2",
-            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/4784"
-        },
-        {
-            "sref": "1:0:19:A92:1:2A:DC00000:0:0:0:",
-            "channel": "Series Channel HD",
-            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/4787"
-        },
-        {
-            "sref": "1:0:19:A91:1:2A:DC00000:0:0:0:",
-            "channel": "Series +2 HD",
-            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/4788"
-        },
-        {
-            "sref": "1:0:19:12E:3:800:DCA0000:0:0:0:",
-            "channel": "OSN TV Movies Action",
-            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/4793"
-        },
-        {
-            "sref": "1:0:19:119C:2D:800:DCA0000:0:0:0:",
-            "channel": "OSN TV Comedy",
-            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/4794"
-        },
-        {
-            "sref": "1:0:1:E2:2:800:DCA0000:0:0:0:",
-            "channel": "Star Movies HD",
-            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/4797"
-        },
-        {
-            "sref": "1:0:19:119E:2D:800:DCA0000:0:0:0:",
-            "channel": "Star World HD",
-            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/4798"
+            "url": "http://s1.tvchallenge.tn:7040/joao30/777333000/134027"
         },
         {
             "sref": "1:0:19:12D:3:800:DCA0000:0:0:0:",
             "channel": "OSN TV Movies Premiere",
-            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/4800"
+            "url": "http://s1.tvchallenge.tn:7040/joao30/777333000/134030"
+        },
+        {
+            "sref": "1:0:19:1622:236:800:DCA0000:0:0:0:",
+            "channel": "OSN TV Movies Family",
+            "url": "http://s1.tvchallenge.tn:7040/joao30/777333000/134032"
+        },
+        {
+            "sref": "1:0:19:119C:2D:800:DCA0000:0:0:0:",
+            "channel": "OSN TV Comedy",
+            "url": "http://s1.tvchallenge.tn:7040/joao30/777333000/134033"
         },
         {
             "sref": "1:0:19:1625:236:800:DCA0000:0:0:0:",
             "channel": "OSN TV Movies Premiere +2",
-            "url": "http://metaip.tv:80/rezastar7/ucCIshvpYj/4801"
+            "url": "http://s1.tvchallenge.tn:7040/joao30/777333000/134044"
+        },
+        {
+            "sref": "1:0:19:A8D:1:2A:DC00000:0:0:0:",
+            "channel": "Al Yawm",
+            "url": "http://s1.tvchallenge.tn:7040/joao30/777333000/134049"
+        },
+        {
+            "sref": "1:0:19:A8F:1:2A:DC00000:0:0:0:",
+            "channel": "Cinema 1",
+            "url": "http://s1.tvchallenge.tn:7040/joao30/777333000/134051"
+        },
+        {
+            "sref": "1:0:19:A93:1:2A:DC00000:0:0:0:",
+            "channel": "Fann",
+            "url": "http://s1.tvchallenge.tn:7040/joao30/777333000/134052"
+        },
+        {
+            "sref": "1:0:19:A92:1:2A:DC00000:0:0:0:",
+            "channel": "Series Channel HD",
+            "url": "http://s1.tvchallenge.tn:7040/joao30/777333000/134054"
+        },
+        {
+            "sref": "1:0:19:12E:3:800:DCA0000:0:0:0:",
+            "channel": "OSN TV Movies Action",
+            "url": "http://s1.tvchallenge.tn:7040/joao30/777333000/134065"
+        },
+        {
+            "sref": "1:0:19:1197:2D:800:DCA0000:0:0:0:",
+            "channel": "OSN TV Movies Hollywood",
+            "url": "http://s1.tvchallenge.tn:7040/joao30/777333000/134093"
+        },
+        {
+            "sref": "1:0:1:E2:2:800:DCA0000:0:0:0:",
+            "channel": "Star Movies HD",
+            "url": "http://s1.tvchallenge.tn:7040/joao30/777333000/134107"
+        },
+        {
+            "sref": "1:0:19:119E:2D:800:DCA0000:0:0:0:",
+            "channel": "Star World HD",
+            "url": "http://s1.tvchallenge.tn:7040/joao30/777333000/134109"
         }
     ]
 }
