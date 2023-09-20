@@ -1,94 +1,94 @@
 {
     "playlist": [
         {
-            "sref": "1:0:19:7D1:64:77E:DC00000:0:0:0:",
-            "channel": "beIN SPORTS 1",
-            "url": "http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/59734"
-        },
-        {
-            "sref": "1:0:19:7D2:64:77E:DC00000:0:0:0:",
-            "channel": "beIN SPORTS 2",
-            "url": "http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/59735"
-        },
-        {
-            "sref": "1:0:19:7D3:64:77E:DC00000:0:0:0:",
-            "channel": "beIN SPORTS 3",
-            "url": "http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/59736"
-        },
-        {
-            "sref": "1:0:19:836:C8:77E:DC00000:0:0:0:",
-            "channel": "beIN SPORTS 4",
-            "url": "http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/65068"
-        },
-        {
-            "sref": "1:0:19:7D4:64:77E:DC00000:0:0:0:",
-            "channel": "beIN SPORTS 5",
-            "url": "http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/59738"
-        },
-        {
-            "sref": "1:0:19:835:C8:77E:DC00000:0:0:0:",
-            "channel": "beIN SPORTS 6",
-            "url": "http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/59739"
-        },
-        {
-            "sref": "1:0:19:839:C8:77E:DC00000:0:0:0:",
-            "channel": "beIN SPORTS 7",
-            "url": "http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/59740"
-        },
-        {
             "sref": "1:0:19:132:3:800:DCA0000:0:0:0:",
             "channel": "OSN TV Yahala Aflam",
-            "url": "http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/71074"
+            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/67242"
         },
         {
             "sref": "1:0:19:119D:2D:800:DCA0000:0:0:0:",
             "channel": "OSN TV Yahala",
-            "url": "http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/71073"
+            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/67243"
         },
         {
-            "sref": "1:0:19:135:3:800:DCA0000:0:0:0:",
-            "channel": "OSN TV Yahala Bil Arabi",
-            "url": "http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/71072"
-        },
-        {
-            "sref": "1:0:19:A8D:1:2A:DC00000:0:0:0:",
-            "channel": "Al Yawm",
-            "url": "http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/71075"
-        },
-        {
-            "sref": "1:0:19:12E:3:800:DCA0000:0:0:0:",
-            "channel": "OSN TV Movies Action",
-            "url": "http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/71076"
-        },
-        {
-            "sref": "1:0:19:1625:236:800:DCA0000:0:0:0:",
-            "channel": "OSN TV Movies Premiere +2",
-            "url": "http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/71077"
-        },
-        {
-            "sref": "1:0:19:119A:2D:800:DCA0000:0:0:0:",
-            "channel": "OSN TV Kids",
-            "url": "http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/71078"
-        },
-        {
-            "sref": "1:0:1:E2:2:800:DCA0000:0:0:0:",
-            "channel": "Star Movies HD",
-            "url": "http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/71084"
-        },
-        {
-            "sref": "1:0:19:119E:2D:800:DCA0000:0:0:0:",
-            "channel": "Star World HD",
-            "url": "http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/71085"
-        },
-        {
-            "sref": "1:0:19:A8F:1:2A:DC00000:0:0:0:",
-            "channel": "Cinema 1",
-            "url": "http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/72765"
+            "sref": "1:0:19:A92:1:2A:DC00000:0:0:0:",
+            "channel": "Series Channel HD",
+            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/67246"
         },
         {
             "sref": "1:0:19:A90:1:2A:DC00000:0:0:0:",
             "channel": "Cinema 2",
-            "url": "http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/71071"
+            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/67241"
+        },
+        {
+            "sref": "1:0:19:12E:3:800:DCA0000:0:0:0:",
+            "channel": "OSN TV Movies Action",
+            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/67251"
+        },
+        {
+            "sref": "1:0:19:12D:3:800:DCA0000:0:0:0:",
+            "channel": "OSN TV Movies Premiere",
+            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/103761"
+        },
+        {
+            "sref": "1:0:19:1625:236:800:DCA0000:0:0:0:",
+            "channel": "OSN TV Movies Premiere +2",
+            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/67252"
+        },
+        {
+            "sref": "1:0:19:7D1:64:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 1",
+            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/39224"
+        },
+        {
+            "sref": "1:0:19:7D2:64:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 2",
+            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/39225"
+        },
+        {
+            "sref": "1:0:19:7D3:64:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 3",
+            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/28267"
+        },
+        {
+            "sref": "1:0:19:1197:2D:800:DCA0000:0:0:0:",
+            "channel": "OSN TV Movies Hollywood",
+            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/67248"
+        },
+        {
+            "sref": "1:0:19:119C:2D:800:DCA0000:0:0:0:",
+            "channel": "OSN TV Comedy",
+            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/67253"
+        },
+        {
+            "sref": "1:0:19:119A:2D:800:DCA0000:0:0:0:",
+            "channel": "OSN TV Kids",
+            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/67256"
+        },
+        {
+            "sref": "1:0:19:161F:236:800:DCA0000:0:0:0:",
+            "channel": "Nickelodeon HD",
+            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/67257"
+        },
+        {
+            "sref": "1:0:19:119B:2D:800:DCA0000:0:0:0:",
+            "channel": "Disney Channel HD",
+            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/67258"
+        },
+        {
+            "sref": "1:0:1:DD:2:800:DCA0000:0:0:0:",
+            "channel": "Disney Junior HD",
+            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/67260"
+        },
+        {
+            "sref": "1:0:1:E2:2:800:DCA0000:0:0:0:",
+            "channel": "Star Movies HD",
+            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/67262"
+        },
+        {
+            "sref": "1:0:19:119E:2D:800:DCA0000:0:0:0:",
+            "channel": "Star World HD",
+            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/67263"
         }
     ]
 }
