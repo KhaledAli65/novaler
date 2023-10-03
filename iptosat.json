@@ -1,94 +1,79 @@
 {
     "playlist": [
         {
+            "sref": "1:0:19:7D1:64:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 1",
+            "url": "http://obshd.tv:25461/haboub.sat/pTdKYchMhh/47269"
+        },
+        {
+            "sref": "1:0:19:7D4:64:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 5",
+            "url": "http://obshd.tv:25461/haboub.sat/pTdKYchMhh/47279"
+        },
+        {
+            "sref": "1:0:19:835:C8:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 6",
+            "url": "http://obshd.tv:25461/haboub.sat/pTdKYchMhh/47280"
+        },
+        {
             "sref": "1:0:19:132:3:800:DCA0000:0:0:0:",
             "channel": "OSN TV Yahala Aflam",
-            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/67242"
+            "url": "http://obshd.tv:25461/haboub.sat/pTdKYchMhh/840"
         },
         {
             "sref": "1:0:19:119D:2D:800:DCA0000:0:0:0:",
             "channel": "OSN TV Yahala",
-            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/67243"
+            "url": "http://obshd.tv:25461/haboub.sat/pTdKYchMhh/842"
         },
         {
-            "sref": "1:0:19:A92:1:2A:DC00000:0:0:0:",
-            "channel": "Series Channel HD",
-            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/67246"
+            "sref": "1:0:19:A8D:1:2A:DC00000:0:0:0:",
+            "channel": "Al Yawm",
+            "url": "http://obshd.tv:25461/haboub.sat/pTdKYchMhh/845"
+        },
+        {
+            "sref": "1:0:19:A8F:1:2A:DC00000:0:0:0:",
+            "channel": "Cinema 1",
+            "url": "http://obshd.tv:25461/haboub.sat/pTdKYchMhh/846"
         },
         {
             "sref": "1:0:19:A90:1:2A:DC00000:0:0:0:",
             "channel": "Cinema 2",
-            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/67241"
+            "url": "http://obshd.tv:25461/haboub.sat/pTdKYchMhh/847"
         },
         {
-            "sref": "1:0:19:12E:3:800:DCA0000:0:0:0:",
-            "channel": "OSN TV Movies Action",
-            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/67251"
-        },
-        {
-            "sref": "1:0:19:12D:3:800:DCA0000:0:0:0:",
-            "channel": "OSN TV Movies Premiere",
-            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/103761"
-        },
-        {
-            "sref": "1:0:19:1625:236:800:DCA0000:0:0:0:",
-            "channel": "OSN TV Movies Premiere +2",
-            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/67252"
-        },
-        {
-            "sref": "1:0:19:7D1:64:77E:DC00000:0:0:0:",
-            "channel": "beIN SPORTS 1",
-            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/39224"
-        },
-        {
-            "sref": "1:0:19:7D2:64:77E:DC00000:0:0:0:",
-            "channel": "beIN SPORTS 2",
-            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/39225"
-        },
-        {
-            "sref": "1:0:19:7D3:64:77E:DC00000:0:0:0:",
-            "channel": "beIN SPORTS 3",
-            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/28267"
-        },
-        {
-            "sref": "1:0:19:1197:2D:800:DCA0000:0:0:0:",
-            "channel": "OSN TV Movies Hollywood",
-            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/67248"
+            "sref": "1:0:19:A94:1:2A:DC00000:0:0:0:",
+            "channel": "Music Now HD",
+            "url": "http://obshd.tv:25461/haboub.sat/pTdKYchMhh/848"
         },
         {
             "sref": "1:0:19:119C:2D:800:DCA0000:0:0:0:",
             "channel": "OSN TV Comedy",
-            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/67253"
+            "url": "http://obshd.tv:25461/haboub.sat/pTdKYchMhh/854"
         },
         {
-            "sref": "1:0:19:119A:2D:800:DCA0000:0:0:0:",
-            "channel": "OSN TV Kids",
-            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/67256"
+            "sref": "1:0:19:1197:2D:800:DCA0000:0:0:0:",
+            "channel": "OSN TV Movies Hollywood",
+            "url": "http://obshd.tv:25461/haboub.sat/pTdKYchMhh/849"
         },
         {
-            "sref": "1:0:19:161F:236:800:DCA0000:0:0:0:",
-            "channel": "Nickelodeon HD",
-            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/67257"
+            "sref": "1:0:19:1625:236:800:DCA0000:0:0:0:",
+            "channel": "OSN TV Movies Premiere +2",
+            "url": "http://obshd.tv:25461/haboub.sat/pTdKYchMhh/868"
         },
         {
-            "sref": "1:0:19:119B:2D:800:DCA0000:0:0:0:",
-            "channel": "Disney Channel HD",
-            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/67258"
+            "sref": "1:0:19:12E:3:800:DCA0000:0:0:0:",
+            "channel": "OSN TV Movies Action",
+            "url": "http://obshd.tv:25461/haboub.sat/pTdKYchMhh/7669"
         },
         {
-            "sref": "1:0:1:DD:2:800:DCA0000:0:0:0:",
-            "channel": "Disney Junior HD",
-            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/67260"
+            "sref": "1:0:19:1622:236:800:DCA0000:0:0:0:",
+            "channel": "OSN TV Movies Family",
+            "url": "http://obshd.tv:25461/haboub.sat/pTdKYchMhh/7682"
         },
         {
-            "sref": "1:0:1:E2:2:800:DCA0000:0:0:0:",
-            "channel": "Star Movies HD",
-            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/67262"
-        },
-        {
-            "sref": "1:0:19:119E:2D:800:DCA0000:0:0:0:",
-            "channel": "Star World HD",
-            "url": "http://tvpro.vprotv.com:25443/V5R0x4GFVezm/FPMcd7ggwH/67263"
+            "sref": "1:0:19:135:3:800:DCA0000:0:0:0:",
+            "channel": "OSN TV Yahala Bil Arabi",
+            "url": "http://obshd.tv:25461/haboub.sat/pTdKYchMhh/7735"
         }
     ]
 }
