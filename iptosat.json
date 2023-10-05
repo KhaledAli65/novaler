@@ -3,77 +3,142 @@
         {
             "sref": "1:0:19:7D1:64:77E:DC00000:0:0:0:",
             "channel": "beIN SPORTS 1",
-            "url": "http://obshd.tv:25461/haboub.sat/pTdKYchMhh/47269"
+            "url": "http://hd.ottiptv.us:8080/32889917414129/32889917414129/4013"
+        },
+        {
+            "sref": "1:0:19:7D2:64:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 2",
+            "url": "http://hd.ottiptv.us:8080/32889917414129/32889917414129/4014"
+        },
+        {
+            "sref": "1:0:19:7D3:64:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 3",
+            "url": "http://hd.ottiptv.us:8080/32889917414129/32889917414129/4016"
+        },
+        {
+            "sref": "1:0:19:836:C8:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 4",
+            "url": "http://hd.ottiptv.us:8080/32889917414129/32889917414129/4017"
         },
         {
             "sref": "1:0:19:7D4:64:77E:DC00000:0:0:0:",
             "channel": "beIN SPORTS 5",
-            "url": "http://obshd.tv:25461/haboub.sat/pTdKYchMhh/47279"
+            "url": "http://hd.ottiptv.us:8080/32889917414129/32889917414129/4018"
         },
         {
             "sref": "1:0:19:835:C8:77E:DC00000:0:0:0:",
             "channel": "beIN SPORTS 6",
-            "url": "http://obshd.tv:25461/haboub.sat/pTdKYchMhh/47280"
+            "url": "http://hd.ottiptv.us:8080/32889917414129/32889917414129/4019"
+        },
+        {
+            "sref": "1:0:19:839:C8:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 7",
+            "url": "http://hd.ottiptv.us:8080/32889917414129/32889917414129/4020"
+        },
+        {
+            "sref": "1:0:19:837:C8:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 8",
+            "url": "http://hd.ottiptv.us:8080/32889917414129/32889917414129/4021"
+        },
+        {
+            "sref": "1:0:19:899:12C:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 9",
+            "url": "http://hd.ottiptv.us:8080/32889917414129/32889917414129/4022"
         },
         {
             "sref": "1:0:19:132:3:800:DCA0000:0:0:0:",
             "channel": "OSN TV Yahala Aflam",
-            "url": "http://obshd.tv:25461/haboub.sat/pTdKYchMhh/840"
+            "url": "http://hd.ottiptv.us:8080/32889917414129/32889917414129/143996"
         },
         {
             "sref": "1:0:19:119D:2D:800:DCA0000:0:0:0:",
             "channel": "OSN TV Yahala",
-            "url": "http://obshd.tv:25461/haboub.sat/pTdKYchMhh/842"
-        },
-        {
-            "sref": "1:0:19:A8D:1:2A:DC00000:0:0:0:",
-            "channel": "Al Yawm",
-            "url": "http://obshd.tv:25461/haboub.sat/pTdKYchMhh/845"
-        },
-        {
-            "sref": "1:0:19:A8F:1:2A:DC00000:0:0:0:",
-            "channel": "Cinema 1",
-            "url": "http://obshd.tv:25461/haboub.sat/pTdKYchMhh/846"
-        },
-        {
-            "sref": "1:0:19:A90:1:2A:DC00000:0:0:0:",
-            "channel": "Cinema 2",
-            "url": "http://obshd.tv:25461/haboub.sat/pTdKYchMhh/847"
-        },
-        {
-            "sref": "1:0:19:A94:1:2A:DC00000:0:0:0:",
-            "channel": "Music Now HD",
-            "url": "http://obshd.tv:25461/haboub.sat/pTdKYchMhh/848"
-        },
-        {
-            "sref": "1:0:19:119C:2D:800:DCA0000:0:0:0:",
-            "channel": "OSN TV Comedy",
-            "url": "http://obshd.tv:25461/haboub.sat/pTdKYchMhh/854"
-        },
-        {
-            "sref": "1:0:19:1197:2D:800:DCA0000:0:0:0:",
-            "channel": "OSN TV Movies Hollywood",
-            "url": "http://obshd.tv:25461/haboub.sat/pTdKYchMhh/849"
-        },
-        {
-            "sref": "1:0:19:1625:236:800:DCA0000:0:0:0:",
-            "channel": "OSN TV Movies Premiere +2",
-            "url": "http://obshd.tv:25461/haboub.sat/pTdKYchMhh/868"
-        },
-        {
-            "sref": "1:0:19:12E:3:800:DCA0000:0:0:0:",
-            "channel": "OSN TV Movies Action",
-            "url": "http://obshd.tv:25461/haboub.sat/pTdKYchMhh/7669"
-        },
-        {
-            "sref": "1:0:19:1622:236:800:DCA0000:0:0:0:",
-            "channel": "OSN TV Movies Family",
-            "url": "http://obshd.tv:25461/haboub.sat/pTdKYchMhh/7682"
+            "url": "http://hd.ottiptv.us:8080/32889917414129/32889917414129/143994"
         },
         {
             "sref": "1:0:19:135:3:800:DCA0000:0:0:0:",
             "channel": "OSN TV Yahala Bil Arabi",
-            "url": "http://obshd.tv:25461/haboub.sat/pTdKYchMhh/7735"
+            "url": "http://hd.ottiptv.us:8080/32889917414129/32889917414129/143995"
+        },
+        {
+            "sref": "1:0:19:A8D:1:2A:DC00000:0:0:0:",
+            "channel": "Al Yawm",
+            "url": "http://hd.ottiptv.us:8080/32889917414129/32889917414129/143998"
+        },
+        {
+            "sref": "1:0:19:A8F:1:2A:DC00000:0:0:0:",
+            "channel": "Cinema 1",
+            "url": "http://hd.ottiptv.us:8080/32889917414129/32889917414129/143999"
+        },
+        {
+            "sref": "1:0:19:A90:1:2A:DC00000:0:0:0:",
+            "channel": "Cinema 2",
+            "url": "http://hd.ottiptv.us:8080/32889917414129/32889917414129/144000"
+        },
+        {
+            "sref": "1:0:19:A92:1:2A:DC00000:0:0:0:",
+            "channel": "Series Channel HD",
+            "url": "http://hd.ottiptv.us:8080/32889917414129/32889917414129/144001"
+        },
+        {
+            "sref": "1:0:19:A91:1:2A:DC00000:0:0:0:",
+            "channel": "Series +2 HD",
+            "url": "http://hd.ottiptv.us:8080/32889917414129/32889917414129/144002"
+        },
+        {
+            "sref": "1:0:19:12E:3:800:DCA0000:0:0:0:",
+            "channel": "OSN TV Movies Action",
+            "url": "http://hd.ottiptv.us:8080/32889917414129/32889917414129/144004"
+        },
+        {
+            "sref": "1:0:19:1197:2D:800:DCA0000:0:0:0:",
+            "channel": "OSN TV Movies Hollywood",
+            "url": "http://hd.ottiptv.us:8080/32889917414129/32889917414129/144005"
+        },
+        {
+            "sref": "1:0:19:119C:2D:800:DCA0000:0:0:0:",
+            "channel": "OSN TV Comedy",
+            "url": "http://hd.ottiptv.us:8080/32889917414129/32889917414129/144008"
+        },
+        {
+            "sref": "1:0:19:1625:236:800:DCA0000:0:0:0:",
+            "channel": "OSN TV Movies Premiere +2",
+            "url": "http://hd.ottiptv.us:8080/32889917414129/32889917414129/144010"
+        },
+        {
+            "sref": "1:0:19:12D:3:800:DCA0000:0:0:0:",
+            "channel": "OSN TV Movies Premiere",
+            "url": "http://hd.ottiptv.us:8080/32889917414129/32889917414129/144013"
+        },
+        {
+            "sref": "1:0:19:1622:236:800:DCA0000:0:0:0:",
+            "channel": "OSN TV Movies Family",
+            "url": "http://hd.ottiptv.us:8080/32889917414129/32889917414129/144014"
+        },
+        {
+            "sref": "1:0:19:A94:1:2A:DC00000:0:0:0:",
+            "channel": "Music Now HD",
+            "url": "http://hd.ottiptv.us:8080/32889917414129/32889917414129/144019"
+        },
+        {
+            "sref": "1:0:19:A93:1:2A:DC00000:0:0:0:",
+            "channel": "Fann",
+            "url": "http://hd.ottiptv.us:8080/32889917414129/32889917414129/144023"
+        },
+        {
+            "sref": "1:0:19:119A:2D:800:DCA0000:0:0:0:",
+            "channel": "OSN TV Kids",
+            "url": "http://hd.ottiptv.us:8080/32889917414129/32889917414129/144029"
+        },
+        {
+            "sref": "1:0:19:119B:2D:800:DCA0000:0:0:0:",
+            "channel": "Disney Channel HD",
+            "url": "http://hd.ottiptv.us:8080/32889917414129/32889917414129/144030"
+        },
+        {
+            "sref": "1:0:19:161F:236:800:DCA0000:0:0:0:",
+            "channel": "Nickelodeon HD",
+            "url": "http://hd.ottiptv.us:8080/32889917414129/32889917414129/144032"
         }
     ]
 }
