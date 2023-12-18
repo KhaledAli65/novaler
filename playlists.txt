@@ -4,3 +4,15 @@ http://sport.xphost19.xyz:2082/get.php?username=Jvyct679999967DDDF4477&password=
 http://mega4k.net:8080/get.php?username=NOURBAR100CONX&password=VDFVRGFBFBGBGGG&type=m3u
 http://uptvbiz.com:8282/get.php?username=kenan&password=191115&type=m3u
 http://78.159.119.122:2082/get.php?username=xplus-2-BHm5F4g9H0&password=Gp0Ano4ZxV&type=m3u
+http://uptvbiz.com:8282/get.php?username=kenan&password=191115&type=m3u
+http://89.187.167.92:80/playlist.m3u?type=m3u&deviceUser=alex1234&devicePass=alex1234&type=m3u
+http://138.255.102.3:25461/get.php?username=FOXSPORTS1HDsd&password=RRZKamZw9a&type=m3u
+http://onlinetv365.xyz:8080/get.php?username=57tyjhg65ljouni7yu711&password=thjhg3468ihj&type=m3u
+http://iptv.nextnet.krd:25461/get.php?username=nextnet&password=3738&type=m3u
+http://newcoco.pinals.xyz:8080/get.php?username=4AvKB6BkqF&password=DvxSxFShdG&type=m3u
+http://tipxpto.club:8080/get.php?username=zmC7FP3dkm7v&password=PNAKYweASA8p&type=m3u
+http://2hubs.ddns.net:25461/get.php?username=bronder&password=drL3ksLUHg&type=m3u
+http://6oclock.xyz:80/get.php?username=oVTsSvYjZu&password=cAXDNm9LY9&type=m3u
+http://exploding.one:/get.php?username=elite30&password=kpvyVYkCAJ&type=m3u
+http://iptv.icsnleb.com:25461/get.php?username=12&password=12&type=m3u
+http://ott.dobratv.net:25461/get.php?username=BoemTV&password=112233445566&type=m3u
