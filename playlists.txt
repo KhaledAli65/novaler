@@ -1,4 +1,4 @@
-http://iptvaruba.com:8080/get.php?username=e13fb1cb&password=2b8a63e0a7&type=m3u
+https://iptv-org.github.io/iptv/index.m3u
 http://xtream.supermagicx.com:25461/get.php?username=skyspeed8&password=qJT3bKF0uv&type=m3u
 http://2hubs.ddns.net:25461/get.php?username=pachaman&password=asdfghuytrc&type=m3u
 http://th4.online:2095/get.php?username=RESTREAM65MIO&password=5747379&type=m3u
