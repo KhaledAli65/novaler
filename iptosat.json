@@ -1,26 +1,6 @@
 {
     "playlist": [
         {
-            "sref": "1:0:19:132:3:800:DCA0000:0:0:0:",
-            "channel": "OSN TV Yahala Aflam",
-            "url": "http://ultrontv.xyz//Eric1234/Dessault456/170971"
-        },
-        {
-            "sref": "1:0:19:119D:2D:800:DCA0000:0:0:0:",
-            "channel": "OSN TV Yahala",
-            "url": "http://ultrontv.xyz//Eric1234/Dessault456/170972"
-        },
-        {
-            "sref": "1:0:19:135:3:800:DCA0000:0:0:0:",
-            "channel": "OSN TV Yahala Bil Arabi",
-            "url": "http://ultrontv.xyz//Eric1234/Dessault456/170970"
-        },
-        {
-            "sref": "1:0:19:A8D:1:2A:DC00000:0:0:0:",
-            "channel": "Al Yawm",
-            "url": "http://ultrontv.xyz//Eric1234/Dessault456/170939"
-        },
-        {
             "sref": "1:0:19:A8F:1:2A:DC00000:0:0:0:",
             "channel": "Cinema 1",
             "url": "http://ultrontv.xyz//Eric1234/Dessault456/170936"
@@ -36,9 +16,9 @@
             "url": "http://ultrontv.xyz//Eric1234/Dessault456/170938"
         },
         {
-            "sref": "1:0:19:119C:2D:800:DCA0000:0:0:0:",
-            "channel": "OSN TV Comedy",
-            "url": "http://ultrontv.xyz//Eric1234/Dessault456/170950"
+            "sref": "1:0:19:A8D:1:2A:DC00000:0:0:0:",
+            "channel": "Al Yawm",
+            "url": "http://ultrontv.xyz//Eric1234/Dessault456/170939"
         },
         {
             "sref": "1:0:19:12E:3:800:DCA0000:0:0:0:",
@@ -66,9 +46,29 @@
             "url": "http://ultrontv.xyz//Eric1234/Dessault456/170966"
         },
         {
-            "sref": "1:0:19:1622:236:800:DCA0000:0:0:0:",
-            "channel": "OSN TV Movies Family",
-            "url": "http://ultrontv.xyz//Eric1234/Dessault456/170967"
+            "sref": "1:0:19:135:3:800:DCA0000:0:0:0:",
+            "channel": "OSN TV Yahala Bil Arabi",
+            "url": "http://ultrontv.xyz//Eric1234/Dessault456/170970"
+        },
+        {
+            "sref": "1:0:19:132:3:800:DCA0000:0:0:0:",
+            "channel": "OSN TV Yahala Aflam",
+            "url": "http://ultrontv.xyz//Eric1234/Dessault456/170971"
+        },
+        {
+            "sref": "1:0:19:119D:2D:800:DCA0000:0:0:0:",
+            "channel": "OSN TV Yahala",
+            "url": "http://ultrontv.xyz//Eric1234/Dessault456/170972"
+        },
+        {
+            "sref": "1:0:19:1625:236:800:DCA0000:0:0:0:",
+            "channel": "OSN TV Movies Comedy",
+            "url": "http://ultrontv.xyz//Eric1234/Dessault456/170950"
+        },
+        {
+            "sref": "1:0:19:119B:2D:800:DCA0000:0:0:0:",
+            "channel": "Disney Channel HD",
+            "url": "http://ultrontv.xyz//Eric1234/Dessault456/170955"
         },
         {
             "sref": "1:0:19:1621:236:800:DCA0000:0:0:0:",
@@ -86,9 +86,74 @@
             "url": "http://ultrontv.xyz//Eric1234/Dessault456/170954"
         },
         {
-            "sref": "1:0:19:119B:2D:800:DCA0000:0:0:0:",
-            "channel": "Disney Channel HD",
-            "url": "http://ultrontv.xyz//Eric1234/Dessault456/170955"
+            "sref": "1:0:19:7D1:64:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 1",
+            "url": "http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/886"
+        },
+        {
+            "sref": "1:0:19:7D2:64:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 2",
+            "url": "http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/887"
+        },
+        {
+            "sref": "1:0:19:7D3:64:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 3",
+            "url": "http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/888"
+        },
+        {
+            "sref": "1:0:19:836:C8:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 4",
+            "url": "http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/889"
+        },
+        {
+            "sref": "1:0:19:7D4:64:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 5",
+            "url": "http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/890"
+        },
+        {
+            "sref": "1:0:19:835:C8:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 6",
+            "url": "http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/891"
+        },
+        {
+            "sref": "1:0:19:839:C8:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 7",
+            "url": "http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/892"
+        },
+        {
+            "sref": "1:0:19:837:C8:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS 8",
+            "url": "http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/893"
+        },
+        {
+            "sref": "1:0:19:89D:12C:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS XTRA 1",
+            "url": "http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/894"
+        },
+        {
+            "sref": "1:0:19:89E:12C:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS XTRA 2",
+            "url": "http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/895"
+        },
+        {
+            "sref": "1:0:19:964:1F4:77E:DCA0000:0:0:0:",
+            "channel": "beIN ASIAN CUP 1",
+            "url": "http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/1144"
+        },
+        {
+            "sref": "1:0:19:965:1F4:77E:DCA0000:0:0:0:",
+            "channel": "beIN ASIAN CUP 2",
+            "url": "http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/1145"
+        },
+        {
+            "sref": "1:0:19:89B:12C:77E:DC00000:0:0:0:",
+            "channel": "beIN SPORTS MAX 1",
+            "url": "http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/1149"
+        },
+        {
+            "sref": "1:0:19:902:190:77E:DCA0000:0:0:0:",
+            "channel": "beIN SPORTS MAX 2",
+            "url": "http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/1148"
         }
     ]
 }
