@@ -22,7 +22,7 @@
 04_Openpli_10.1_09042025 https://www.novaler.com/uploads/enigmapro/openpli/openpli-10.1-novaler4kpro-backup-20250409_usb.zip 
 05_Egami_10.6_R9_03042025 https://www.novaler.com/uploads/enigmapro/egami/egami-10.6.r9-novaler4kpro-backup-20250403_usb.zip
 06_PurE2_7.4_06042025 https://www.novaler.com/uploads/enigmapro/pure2/pure2-7.4-novaler4kpro-backup-20250406_usb.zip
-07_OpenSPA_8.4.003_26122025 https://www.novaler.com/uploads/enigmapro/openspa/openspa-8.4-003-novaler4kpro-backup-20241226_usb.zip
+07_OpenSPA_8.5.001_22042025 https://www.novaler.com/uploads/enigmapro/openspa/openspa-8.5-001-novaler4kpro-backup-20250422_usb.zip
 ===|||Novaler_Pro_BOOT_5|||=== https://khaledali.com
 01_Openpli_9.1_BOOT_5 https://www.novaler.com/uploads/enigmapro/boot5/openpli-9.1-multiboxpro-boot5.zip
 ===|||Novaler_PRO_Android|||=== https://khaledali.com
