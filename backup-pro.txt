@@ -12,7 +12,7 @@
 02_Openavix_6.7.008 https://www.novaler.com/uploads/enigmapro/openvix/openvix-6.7.008.release-novaler4kpro_multi.zip
 03_OpenPLi_10.1 https://www.novaler.com/uploads/enigmapro/openpli/openpli-10.1-multiboxpro_emmc.zip
 04_Openbh_5.5.010 https://www.novaler.com/uploads/enigmapro/openbh/openbh-5.5.1.010.release-novaler4kpro_multi.zip 
-05_Egami_10.6_R9 https://image.egami-image.com/10.6/novaler4kpro/egami-10.6-r9-novaler4kpro-20250401_multi.zip
+05_Egami_10.6_R10 https://image.egami-image.com/10.6/novaler4kpro/egami-10.6-r10-novaler4kpro-20250502_multi.zip
 06_PurE2_7.4 https://dl.dropboxusercontent.com/scl/fi/1wqiqmpmsmwdplss6rthg/novaler4kpro-PurE2-7.4-20240829_multi.zip?rlkey=7zzbvuhxobzm6wuohq1a9t242&st=ol2hhbkv&dl=0
 07_OpenSpa_8.4.002 https://www.novaler.com/uploads/enigmapro/openspa/openspa-8.4.002-novaler4kpro-20241030_multi.zip
 ===|||Novaler_Pro_Official|||=== https://khaledali.com
