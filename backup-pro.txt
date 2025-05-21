@@ -9,7 +9,7 @@
 06_OpenSPA_8.4.003_20012025 https://dl.dropboxusercontent.com/scl/fi/kgeyh4amzgn61sefub5aj/openspa-8.4-novaler4kpro-backup.zip?rlkey=0fg9vapnqfgiljjjjlwnkeusm&st=nb3pprxh&dl=0 
 ===|||Novaler_Pro_RAW_Image|||=== https://khaledali.com
 01_Openatv_7.5.1 https://images.mynonpublic.com/openatv/7.5.1/current.php?open=novaler4kpro
-02_Openavix_6.7.008 https://www.novaler.com/uploads/enigmapro/openvix/openvix-6.7.008.release-novaler4kpro_multi.zip
+02_Openavix_6.7.010 https://www.novaler.com/uploads/enigmapro/openvix/openvix-6.7.010.release-novaler4kpro_multi.zip
 03_OpenPLi_10.1 https://www.novaler.com/uploads/enigmapro/openpli/openpli-10.1-multiboxpro_emmc.zip
 04_Openbh_5.5.010 https://www.novaler.com/uploads/enigmapro/openbh/openbh-5.5.1.010.release-novaler4kpro_multi.zip 
 05_Egami_10.6_R10 https://image.egami-image.com/10.6/novaler4kpro/egami-10.6-r10-novaler4kpro-20250502_multi.zip
@@ -20,7 +20,7 @@
 02_openbh_5.5.1.008_07042025 https://www.novaler.com/uploads/enigmapro/openbh/openbh-5.5.1-008-novaler4kpro-backup-20250407_mmc.zip
 03_openvix_6.7_06042025 https://www.novaler.com/uploads/enigmapro/openvix/openvix-6.7-novaler4kpro-backup-20250406_usb.zip
 04_Openpli_10.1_09042025 https://www.novaler.com/uploads/enigmapro/openpli/openpli-10.1-novaler4kpro-backup-20250409_usb.zip 
-05_Egami_10.6_R9_03042025 https://www.novaler.com/uploads/enigmapro/egami/egami-10.6.r9-novaler4kpro-backup-20250403_usb.zip
+05_Egami_10.6_R10_03052025 https://www.novaler.com/uploads/enigmapro/egami/egami-10.6.r10-novaler4kpro-backup-20250503_usb.zip
 06_PurE2_7.4_06042025 https://www.novaler.com/uploads/enigmapro/pure2/pure2-7.4-novaler4kpro-backup-20250406_usb.zip
 07_OpenSPA_8.5.001_22042025 https://www.novaler.com/uploads/enigmapro/openspa/openspa-8.5-001-novaler4kpro-backup-20250422_usb.zip
 ===|||Novaler_Pro_BOOT_5|||=== https://khaledali.com
