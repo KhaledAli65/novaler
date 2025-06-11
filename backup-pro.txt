@@ -1,7 +1,7 @@
 *****|Welcome|***** https://khaledali.com
 ===KhaledAli_Novaler_Pro_online_flash=== https://khaledali.com
 ====|||KhakedAli_Backup|||==== https://khaledali.com
-01_Openbh_5.5.1.011_09062025 https://dl.dropboxusercontent.com/scl/fi/7cbkaorrjcodeou4r16gi/openbh-5.5.1.010-novaler4kpro.zip?rlkey=6xffb1t4dverpo1o15zufzqcm&st=jeilj6qj&dl=0
+01_Openbh_5.5.1.012_12062025 https://dl.dropboxusercontent.com/scl/fi/7cbkaorrjcodeou4r16gi/openbh-5.5.1.010-novaler4kpro.zip?rlkey=6xffb1t4dverpo1o15zufzqcm&st=jeilj6qj&dl=0
 02_Egami_10.6_R12_MegaExclusive_08062025 https://dl.dropboxusercontent.com/scl/fi/90l2xm9i60bmqi6ysaflg/egami-10.5-novaler4kpro-backup_KhaledAli.zip?rlkey=thewt4pffoev2wmrp0v83iwjs&st=z6tsi8tl&dl=0
 03_Openatv_7.5.1_24052025_BestChoice https://dl.dropboxusercontent.com/scl/fi/90mzcqxjsdz71qx158i70/openatv-7.5.1-novaler4kpro.zip?rlkey=mq3jll11vfqnedjl9llfw6ueq&st=1z3ixdc7&dl=0
 04_TeamBlue_7.5_24052025 https://dl.dropboxusercontent.com/scl/fi/r1o80nhgt21xr3xauv0gt/teamblue-7.5-novaler4kpro.zip?rlkey=nsbkrlxuxipqeenphsit9gzgg&st=tmghy5ka&dl=0 
@@ -11,7 +11,7 @@
 01_Openatv_7.5.1 https://images.mynonpublic.com/openatv/7.5.1/current.php?open=novaler4kpro
 02_Openavix_6.7.010 https://www.novaler.com/uploads/enigmapro/openvix/openvix-6.7.010.release-novaler4kpro_multi.zip
 03_OpenPLi_10.1 https://www.novaler.com/uploads/enigmapro/openpli/openpli-10.1-multiboxpro_emmc.zip
-04_Openbh_5.5.011 https://www.novaler.com/uploads/enigmapro/openbh/openbh-5.5.1.011.release-novaler4kpro_multi.zip 
+04_Openbh_5.5.012 https://www.novaler.com/uploads/enigmapro/openbh/openbh-5.5.1.012.release-novaler4kpro_multi.zip 
 05_Egami_10.6_R12 https://image.egami-image.com/10.6/novaler4kpro/egami-10.6-r12-novaler4kpro-20250605_multi.zip
 06_PurE2_7.4 https://dl.dropboxusercontent.com/scl/fi/1wqiqmpmsmwdplss6rthg/novaler4kpro-PurE2-7.4-20240829_multi.zip?rlkey=7zzbvuhxobzm6wuohq1a9t242&st=ol2hhbkv&dl=0
 07_OpenSpa_8.4.002 https://www.novaler.com/uploads/enigmapro/openspa/openspa-8.4.002-novaler4kpro-20241030_multi.zip
