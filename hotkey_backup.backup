@@ -1,0 +1,4 @@
+config.misc.ButtonSetup.cross_left=Infobar/volumeDown
+config.misc.ButtonSetup.cross_right=Infobar/volumeUp
+config.misc.ButtonSetup.list=Infobar/toggleShow
+config.misc.ButtonSetup.red=Plugins/Extensions/Sherlockmod/1
